@@ -1,0 +1,10 @@
+com\wtp\dashboard\entity\SensorReading.class
+com\wtp\dashboard\WtpDashboardApplication.class
+com\wtp\dashboard\dto\SensorReadingDTO.class
+com\wtp\dashboard\repository\SensorReadingRepository.class
+com\wtp\dashboard\config\AppConfig.class
+com\wtp\dashboard\entity\ProcessStage.class
+com\wtp\dashboard\repository\ProcessStageRepository.class
+com\wtp\dashboard\service\SensorDataService$DashboardStats.class
+com\wtp\dashboard\controller\DashboardController.class
+com\wtp\dashboard\service\SensorDataService.class
